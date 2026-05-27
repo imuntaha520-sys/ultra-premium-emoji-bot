@@ -1,0 +1,37 @@
+# ╔════════════════════════════════════════════════════════════════╗
+# ║   ULTRA PREMIUM EMOJI BOT v2.0 - DEPENDENCIES                 ║
+# ║   Install with: pip install -r requirements.txt               ║
+# ╚════════════════════════════════════════════════════════════════╝
+
+# Core Telegram Library
+telethon>=1.30.0
+
+# Async MongoDB Driver
+motor>=3.3.0
+
+# MongoDB ORM
+pymongo>=4.5.0
+
+# Environment Variables
+python-dotenv>=0.21.0
+
+# Data Validation (Optional but recommended)
+pydantic>=2.0.0
+
+# HTTP Requests (Optional)
+httpx>=0.24.0
+
+# Date/Time Utilities (Optional)
+pytz>=2023.3
+
+# Rate Limiting (Optional)
+python-ratelimit>=1.0.0
+
+# Configuration Management (Optional)
+pyyaml>=6.0
+
+# Logging Enhancement (Optional)
+colorlog>=6.7.0
+
+# Performance Monitoring (Optional)
+py-spy>=0.3.14
